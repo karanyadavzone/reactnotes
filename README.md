@@ -1,7 +1,7 @@
 To run the application you need to follow
 1. Inside folder client run command npm install
 2. After that run command npm run dev
-3. Your frontend is live now on port 3000
+3. Your frontend is running now 
 
 To run the backend part
 1. In server folder run npm install 
